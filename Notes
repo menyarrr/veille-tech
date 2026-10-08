@@ -1,0 +1,24 @@
+Pour comprendre de l'IA , il faut voir cela comme des poupées russes :
+° IA (intelligence artificielle): le concept global (imiter l'intelligence humaine)
+° ML (machine learning): le sous-ensemble où la machine apprend à partir de données (exemple:classification , prédiction)
+° Note : la "régression" est une technique clé ici
+° DL (deep learing) : Utilise des réseaux de neurones artificiels (inspirés du cerveau).
+c'est ce qui permet de traiter des données complexes.
+° LLM (large language models): des modèles géants (comme GPT) entrainés sur d'énormes volumes de texte.
+
+Comment on passe de la donnée brute à la creéation ?
+1.Input: données massives 
+2.Training : entraînement des modèles (LLM)
+3.Output : Génération de contenu (texte , image , video , audio)
+
+Mais , l'IA n'est pas parfaite. Il faut garder en tête 2 problèmes majeurs:
+1.Hallucinations : le modèle invente des faits ou des sources qui n'existent pas
+2.Biais : le modèle reproduit les stéréotypes présents dans les données d'entraînement
+
+Pour utiliser l'IA de manière responsable (surtout dans un cadre académique) , voici les 5 piliers à respecter :
+1.Transparence: dire quand on utilise l'IA 
+2.Verification: toujours recouper les sources et vérifier les faits
+3.Confidentialite: ne pas partger de données sensibles avec l'IA 
+4.Integrite Académique: ne pas faire passer le travail de l'IA pour le sein 
+5.Esprit Critique: garder son cerveau allumé! L'IA est un outil , pas une vérité absolue
+
