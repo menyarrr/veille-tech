@@ -22,3 +22,54 @@ Pour utiliser l'IA de manière responsable (surtout dans un cadre académique) ,
 4.Integrite Académique: ne pas faire passer le travail de l'IA pour le sein 
 5.Esprit Critique: garder son cerveau allumé! L'IA est un outil , pas une vérité absolue
 
+# Fiche de lecture — Veille technologique
+°Titre de la source
+AI-ECG pour le diagnostic de l’insuffisance cardiaque : limites et perspectives
+°Type de source
+Source institutionnelle : European Society of Cardiology (ESC)
+Article scientifique : revue systématique et méta-analyse sur l’IA-ECG dans la détection de
+l’insuffisance cardiaque à fraction d’éjection préservée (HFpEF)
+Newsletter / média spécialisé : Heart Failure Academy
+
+**Auteur ou organisme et date**
+European Society of Cardiology (ESC), date de publication à vérifier.
+Revue systématique et méta-analyse, 2026.
+Heart Failure Academy, entretien avec des experts, 2026.
+
+**Lien de la source**
+ESC : site officiel de la Société européenne de cardiologie.
+Article scientifique : lien DOI à compléter.
+Heart Failure Academy : lien de l’entretien à compléter.
+
+**Idée principale**
+L’intelligence artificielle appliquée à l’électrocardiogramme (IA-ECG) présente un potentiel
+prometteur pour détecter l’insuffisance cardiaque, notamment l’insuffisance cardiaque à fraction d’éjection 
+préservée (HFpEF). Cependant, plusieurs lacunes scientifiques et cliniques limitent actuellement son utilisation 
+en pratique courante : manque d’études prospectives, validation externe insuffisante, hétérogénéité des critères 
+diagnostiques et utilité clinique encore incertaine.
+
+**Éléments de preuve**
+- L’ESC rapporte qu’un modèle de deep learning destiné à détecter la dysfonction diastolique ventriculaire gauche a obtenu une AUROC de 0,913 dans un ensemble de test d’une étude rétrospective monocentrique. Une validation prospective et externe reste nécessaire.
+- La méta-analyse de 2026 sur la détection de la HFpEF par IA-ECG souligne que les études disponibles sont principalement rétrospectives, avec une forte hétérogénéité des résultats (I² = 100 %), des risques de biais et des critères de référence diagnostiques variables.
+- Les études ne permettent pas encore d’établir clairement l’utilité clinique de ces modèles sur la base de résultats prospectifs ni de confirmer leur efficacité en conditions réelles.
+- Certaines méthodes combinent les données ECG avec des variables cliniques, comme l’âge, la pression artérielle et les comorbidités. Les performances obtenues ne reflètent donc pas nécessairement la capacité diagnostique du signal ECG seul.
+- Heart Failure Academy met en avant la nécessité d’évaluer la généralisation, la calibration des probabilités, les biais entre sous-groupes et l’explicabilité des modèles avant leur adoption clinique.
+
+**Limites ou biais éventuels**
+Les études rétrospectives et monocentriques peuvent limiter la généralisation
+des résultats à d’autres populations et systèmes de santé. L’hétérogénéité des méthodes et des critères 
+de référence complique la comparaison des performances. De plus, une bonne discrimination statistique ne garantit pas 
+une calibration correcte ni un bénéfice clinique réel. Dans les populations où la prévalence de l’insuffisance cardiaque 
+est faible, les faux positifs peuvent entraîner des examens complémentaires inutiles. Enfin, les références bibliographiques
+exactes et les liens des trois sources doivent être vérifiés.
+
+**Vérification effectuée**
+Les informations fournies indiquent des résultats prometteurs, mais les références originales, 
+la date exacte de publication de la source ESC et les données bibliographiques de la méta-analyse de 2026 doivent être confirmées
+avant citation académique. Les résultats rapportés ne suffisent pas, à eux seuls, à démontrer que l’IA-ECG améliore les décisions thérapeutiques ou les résultats cliniques.
+
+**Conclusion**
+L’IA-ECG pourrait devenir un outil complémentaire utile pour le dépistage et le diagnostic de l’insuffisance cardiaque.
+Toutefois, son adoption nécessite des études prospectives multicentriques, une validation externe sur des populations diversifiées,
+des critères diagnostiques harmonisés et une démonstration de son utilité clinique en pratique réelle.
+
