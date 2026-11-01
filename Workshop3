@@ -1,0 +1,13 @@
+                               Analyse et compréhension d'un article scientifique à l'aide de l'intelligence artificielle
+
+Cet exercice consiste à utiliser l’intelligence artificielle pour analyser un article scientifique au format PDF. 
+À partir d’un prompt précis, l’IA a identifié les éléments essentiels de l’article : la problématique, les objectifs, la méthodologie, 
+les principaux résultats et les limites de l’étude.
+Cette activité montre comment l’IA peut faciliter la compréhension des articles scientifiques, extraire les informations importantes et structurer
+les recherches de manière claire et efficace.
+
+Prompt : 
+« Analyse ce document PDF. Identifie sa problématique, ses objectifs, sa méthodologie, ses principaux résultats et ses limites.
+Présente les informations dans un tableau et indique les pages correspondantes lorsque cela est possible. N’ajoute aucune information absente du document. »
+
+Reponse de l'IA :
