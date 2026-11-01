@@ -1,3 +1,18 @@
+                                L'art du Prompt Engineering : apprendre à communiquer efficacement avec l'IA
+
+Lors de cet atelier, j'ai appris à rédiger des prompts clairs et précis pour obtenir des réponses plus pertinentes de l'intelligence artificielle.
+J'ai découvert comment formuler une demande, définir un objectif et préciser les sources souhaitées.
+Pour mettre en pratique cet apprentissage, j'ai utilisé un prompt portant sur les lacunes de la recherche dans le diagnostic de l'insuffisance cardiaque
+à l'aide de l'IA et des ECG. L'objectif était d'obtenir une veille technologique structurée à partir de sources officielles, 
+d'articles scientifiques et de newsletters.
+
+
+Prompt :
+What are the potential research gaps in heart failure diagnosis using AI models based on ECG? Cite three sources: Official, 
+scientific articles and newsletter sources.
+
+Reponse de l'IA :
+
 # Fiche de lecture — Veille technologique
 °Titre de la source
 AI-ECG pour le diagnostic de l’insuffisance cardiaque : limites et perspectives
